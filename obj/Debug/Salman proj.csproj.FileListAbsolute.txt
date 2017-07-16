@@ -1,0 +1,18 @@
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\bin\Debug\Salman proj.exe.config
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\bin\Debug\Salman proj.exe
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\bin\Debug\Salman proj.pdb
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\obj\Debug\Salman proj.csprojResolveAssemblyReference.cache
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\obj\Debug\Salman_proj.Form1.resources
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\obj\Debug\Salman_proj.Properties.Resources.resources
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\obj\Debug\Salman proj.csproj.GenerateResource.Cache
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\obj\Debug\Salman proj.exe
+C:\Users\bilal najeeb\Desktop\Projects\Salman proj\Salman proj\obj\Debug\Salman proj.pdb
+C:\Users\Salman\Desktop\Salman proj\Salman proj\bin\Debug\Salman proj.exe.config
+C:\Users\Salman\Desktop\Salman proj\Salman proj\obj\Debug\Salman proj.exe
+C:\Users\Salman\Desktop\Salman proj\Salman proj\obj\Debug\Salman proj.pdb
+C:\Users\Salman\Desktop\Salman proj\Salman proj\bin\Debug\Salman proj.exe
+C:\Users\Salman\Desktop\Salman proj\Salman proj\bin\Debug\Salman proj.pdb
+C:\Users\Salman\Desktop\Salman proj\Salman proj\obj\Debug\Salman proj.csprojResolveAssemblyReference.cache
+C:\Users\Salman\Desktop\Salman proj\Salman proj\obj\Debug\Salman_proj.Form1.resources
+C:\Users\Salman\Desktop\Salman proj\Salman proj\obj\Debug\Salman_proj.Properties.Resources.resources
+C:\Users\Salman\Desktop\Salman proj\Salman proj\obj\Debug\Salman proj.csproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+C:\Users\Priscia\Desktop\MEYWD + Priscia\Restau\Salman proj\bin\Debug\Salman proj.exe.config
+C:\Users\Priscia\Desktop\MEYWD + Priscia\Restau\Salman proj\obj\Debug\Salman proj.exe
+C:\Users\Priscia\Desktop\MEYWD + Priscia\Restau\Salman proj\obj\Debug\Salman proj.pdb
